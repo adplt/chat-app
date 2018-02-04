@@ -11,7 +11,7 @@ const initialState = {
   sending: false,
   sendingError: null,
   message: '',
-  messages: {},
+  messages: [],
   loadMessagesError: null
 };
 
@@ -26,7 +26,7 @@ const language = (state = initialState, action) => {
   case CHAT_MESSAGE_UPDATE:
     return {...state, sending: true, sendingError: null};
   case CHAT_LOAD_MESSAGES_SUCCESS:
-    return {...state, sending: true, sendingError: null};
+    return {...state, messages: action.payload, sending: true, sendingError: null};
   case CHAT_LOAD_MESSAGES_ERROR:
     return {...state, sending: true, sendingError: null};
   default:

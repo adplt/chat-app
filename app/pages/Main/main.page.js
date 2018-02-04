@@ -20,36 +20,37 @@ export default class App extends React.Component {
   componentWillMount () {
     const {loadMessages = noop} = this.props;
     loadMessages();
-    this.setState({
-      messages: [
-        {
-          _id: 1,
-          text: 'Hello developer',
-          createdAt: new Date(),
-          user: {
-            _id: 2,
-            name: 'React Native',
-            avatar: 'http://jefflau.net/content/images/2016/07/react-logo-1000-transparent.png',
-          },
-        },
-      ],
-    });
+    // this.setState({
+    //   messages: [
+    //     {
+    //       _id: 1,
+    //       text: 'Hello developer',
+    //       createdAt: new Date(),
+    //       user: {
+    //         _id: 2,
+    //         name: 'React Native',
+    //         avatar: 'http://jefflau.net/content/images/2016/07/react-logo-1000-transparent.png',
+    //       },
+    //     },
+    //   ],
+    // });
   }
 
   onSend = (messages = []) => {
     const {sendMessage} = this.props;
-    this.setState((previousState) => ({
-      messages: GiftedChat.append(previousState.messages, messages),
-    }));
+    // this.setState((previousState) => ({
+    //   messages: GiftedChat.append(previousState.messages, messages),
+    // }));
     sendMessage(messages[messages.length - 1]);
   }
 
   render () {
-    const {session} = this.props;
+    const {session, chat} = this.props;
     const user = result(session, 'user', {});
+    const message = result(chat, 'messages', []);
     return (
       <GiftedChat
-        messages={this.state.messages}
+        messages={message}
         onSend={this.onSend}
         user={{_id: result(user, 'uid', ''), ...user}}
       />
