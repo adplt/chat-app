@@ -2,6 +2,12 @@ import {combineReducers} from 'redux';
 import {reducer as formReducer} from 'redux-form';
 import {CLEAN_APP_STATE} from '../actions/common.action';
 import Navigator from '../../routes/';
+import spinner from './spinner.reducer';
+import networkStatus from './networkStatus.reducer';
+import language from './language.reducer';
+import highlightText from './highlightText.reducer';
+import chat from './chat.reducer';
+import session from './session.reducer';
 
 const nav = (state, action) => (
   Navigator.router.getStateForAction(action, state)
@@ -10,6 +16,12 @@ const nav = (state, action) => (
 const appReducers = combineReducers({
   nav,
   form: formReducer,
+  spinner,
+  networkStatus,
+  currentLanguage: language,
+  highlightText,
+  chat,
+  session,
 });
 
 

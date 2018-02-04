@@ -5,6 +5,7 @@ import {connect} from 'react-redux';
 import {BackHandler} from 'react-native';
 import Routes from './index';
 import {getCurrentRouteName} from '../utils/transformer.util';
+import {result} from 'lodash';
 
 class RouterWrapper extends React.Component {
 
@@ -40,7 +41,10 @@ class RouterWrapper extends React.Component {
   }
 }
 
-const mapStateToProps = ({nav, showSpinner}) => ({nav, showSpinner});
+const mapStateToProps = (state) => ({
+  nav: result(state, 'nav'),
+  showSpinner: result(state, 'showSpinner'),
+});
 
 const mapDispatchToProps = (dispatch) => ({dispatch});
 

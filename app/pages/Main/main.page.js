@@ -1,14 +1,25 @@
 import React from 'react';
 import {StyleSheet} from 'react-native';
 import {GiftedChat} from 'react-native-gifted-chat';
+import PropTypes from 'prop-types';
+import {noop, result} from 'lodash';
 
 export default class App extends React.Component {
+
+  static propTypes = {
+    chat: PropTypes.object,
+    session: PropTypes.object,
+    loadMessages: PropTypes.func,
+    sendMessage: PropTypes.func,
+  };
 
   state = {
     messages: [],
   }
 
   componentWillMount () {
+    const {loadMessages = noop} = this.props;
+    loadMessages();
     this.setState({
       messages: [
         {
@@ -26,21 +37,21 @@ export default class App extends React.Component {
   }
 
   onSend = (messages = []) => {
+    const {sendMessage} = this.props;
     this.setState((previousState) => ({
       messages: GiftedChat.append(previousState.messages, messages),
     }));
+    sendMessage(messages[messages.length - 1]);
   }
 
-  message = (messages) => this.onSend(messages)
-
   render () {
+    const {session} = this.props;
+    const user = result(session, 'user', {});
     return (
       <GiftedChat
         messages={this.state.messages}
-        onSend={this.message}
-        user={{
-          _id: 1,
-        }}
+        onSend={this.onSend}
+        user={{_id: result(user, 'uid', ''), ...user}}
       />
     );
   }

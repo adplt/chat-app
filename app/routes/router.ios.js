@@ -3,17 +3,16 @@ import PropTypes from 'prop-types';
 import {addNavigationHelpers} from 'react-navigation';
 import {connect} from 'react-redux';
 import Routes from './index';
-import {
-  createReduxBoundAddListener,
-} from 'react-navigation-redux-helpers';
+import {createReduxBoundAddListener} from 'react-navigation-redux-helpers';
+import {result} from 'lodash';
 
 const addListener = createReduxBoundAddListener('root');
 
 class RouterWrapper extends React.Component {
 
   static propTypes = {
+    dispatch: PropTypes.func,
     nav: PropTypes.object,
-    dispatch: PropTypes.func
   }
 
   render () {
@@ -22,7 +21,9 @@ class RouterWrapper extends React.Component {
   }
 }
 
-const mapStateToProps = ({nav}) => ({nav});
+const mapStateToProps = (state) => ({
+  nav: result(state, 'nav'),
+});
 
 const mapDispatchToProps = (dispatch) => ({dispatch});
 

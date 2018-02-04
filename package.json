@@ -27,12 +27,13 @@
   "jest": {
     "preset": "jest-expo",
     "globals": {
-			"GLOBAL": ""
-		}
+      "GLOBAL": ""
+    }
   },
   "dependencies": {
     "expo": "^25.0.0",
     "firebase": "^4.9.1",
+    "lodash": "^4.17.5",
     "moment": "^2.20.1",
     "prop-types": "^15.6.0",
     "react": "16.2.0",

@@ -8,24 +8,29 @@ import {setNetworkStatus, resetNetworkBar} from './state/actions/common.action';
 import {ConnectedRoutes} from './routes/router';
 import OfflineBar from './components/OfflineBarComponent/OfflineBar.component';
 import {setCurrentLanguage} from './state/thunks/common.thunk';
+import {loginUser} from './state/thunks/firebase.thunk';
 import {get, storageKeys} from './utils/storage.util';
+import {noop, result} from 'lodash';
 
-const mapStateToProps = ({spinner, networkStatus, currentLanguage, highlightText}) => ({
-  spinner,
-  networkStatus,
-  currentLanguage,
-  highlightText
+const mapStateToProps = (state) => ({
+  spinner: result(state, 'spinner'),
+  networkStatus: result(state, 'networkStatus'),
+  currentLanguage: result(state, 'currentLanguage'),
+  highlightText: result(state, 'highlightText'),
 });
 
 const mapDispatchToProps = (dispatch) => ({
-  initializeLanguage: () => get(storageKeys['LANGUAGE']).then((currentLanguageId) => {
-    dispatch(setCurrentLanguage(currentLanguageId || 'id'));
-  }),
+  initializeLanguage: () => get(storageKeys['LANGUAGE']).
+    then((currentLanguageId) => {
+      dispatch(setCurrentLanguage(currentLanguageId || 'id'));
+    }),
   resetNetworkBar: () => dispatch(resetNetworkBar()),
-  setNetworkStatus: (isConnected) => dispatch(setNetworkStatus(isConnected))
+  setNetworkStatus: (isConnected) => dispatch(setNetworkStatus(isConnected)),
+  loginUser: () => dispatch(loginUser('atriadplt@gmail.com', 'MaJoTwin0707@')),
 });
 
 class AppComponent extends PureComponent {
+
   static propTypes = {
     currentLanguage: PropTypes.object,
     highlightText: PropTypes.bool,
@@ -34,11 +39,14 @@ class AppComponent extends PureComponent {
     networkStatus: PropTypes.object,
     resetNetworkBar: PropTypes.func,
     setNetworkStatus: PropTypes.func,
-    spinner: PropTypes.bool
+    spinner: PropTypes.bool,
+    loginUser: PropTypes.func,
   };
 
   componentWillMount () {
-    this.props.initializeLanguage();
+    const {initializeLanguage = noop, loginUser = noop} = this.props;
+    initializeLanguage();
+    loginUser();
   }
 
   render () {

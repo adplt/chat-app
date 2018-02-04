@@ -42,7 +42,7 @@ let theme = {
   primary: '#392d2c',
   secondary: '#F5F5F5',
   tertiary: '#392d2c',
-  brand: '#392d2c',
+  brand: '#3F51B5',
   budgetText: '#00a6b8',
   endPointDot: '#00a6b8',
   activeBackgroundColor: '#e7e6e6',
