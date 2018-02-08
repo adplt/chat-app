@@ -20,7 +20,15 @@ const session = (state = initialState, action) => {
   case SESSION_LOADING:
     return {...state, restoring: false, loading: true, error: null};
   case SESSION_SUCCESS: {
-    const {displayName, email, phoneNumber, photoURL, metadata, uid} = action.payload;
+    const {
+      displayName,
+      email,
+      phoneNumber,
+      photoURL,
+      metadata,
+      uid,
+      isAnonymous,
+    } = action.payload;
     return {restoring: false, loading: false, user: {
       displayName,
       email,
@@ -28,6 +36,7 @@ const session = (state = initialState, action) => {
       photoURL,
       metadata,
       uid,
+      isAnonymous,
     }, error: null};
   }
   case SESSION_ERROR:

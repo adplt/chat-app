@@ -1,4 +1,4 @@
-import firebaseService from '../../utils/firebaseService.util';
+import firebaseService from 'react-native-firebase';
 import {
   sessionRestoring,
   sessionSuccess,
@@ -21,7 +21,7 @@ const FIREBASE_REF_MESSAGES_LIMIT = 20;
 
 export const restoreSession = () => (dispatch) => {
   dispatch(sessionRestoring());
-  let unsubscribe = firebaseService.auth().
+  const unsubscribe = firebaseService.auth().
     onAuthStateChanged((user) => {
       if (user) {
         dispatch(sessionSuccess(user));
@@ -35,12 +35,11 @@ export const restoreSession = () => (dispatch) => {
 
 export const loginUser = (email, password) => (dispatch) => {
   dispatch(sessionLoading());
-  firebaseService.auth().
-    signInWithEmailAndPassword(email, password).
+  firebaseService.auth().signInAndRetrieveDataWithEmailAndPassword(email, password).
     catch((error) => {
       dispatch(sessionError(error.message));
     });
-  let unsubscribe = firebaseService.auth().
+  const unsubscribe = firebaseService.auth().
     onAuthStateChanged((user) => {
       if (user) {
         dispatch(sessionSuccess(user));
@@ -51,12 +50,12 @@ export const loginUser = (email, password) => (dispatch) => {
 
 export const signupUser = (email, password) => (dispatch) => {
   dispatch(sessionLoading());
-  firebaseService.auth().
-    createUserWithEmailAndPassword(email, password).
+  firebaseService.auth().createUserWithEmailAndPassword(email, password).
     catch((error) => {
       dispatch(sessionError(error.message));
     });
-  let unsubscribe = firebaseService.auth().
+  const unsubscribe = firebaseService.
+    auth().
     onAuthStateChanged((user) => {
       if (user) {
         dispatch(sessionSuccess(user));
@@ -67,8 +66,7 @@ export const signupUser = (email, password) => (dispatch) => {
 
 export const logoutUser = () => (dispatch) => {
   dispatch(sessionLoading());
-  firebaseService.auth().
-    signOut().
+  return firebaseService.auth().signOut().
     then(() => dispatch(sessionLogout())).
     catch((error) => {
       dispatch(sessionError(error.message));
@@ -79,42 +77,44 @@ export const logoutUser = () => (dispatch) => {
 
 /* CHAT */
 
-export const loadMessages = () => (dispatch) => {
-  FIREBASE_REF_MESSAGES.limitToLast(FIREBASE_REF_MESSAGES_LIMIT).
+export const loadMessages = () => (dispatch) =>
+  FIREBASE_REF_MESSAGES.
+    limitToLast(FIREBASE_REF_MESSAGES_LIMIT).
+    orderByChild('createdAt').
     on('value', (snapshot) => {
       let returnArr = [];
       snapshot.forEach((childSnapshot) => {
-        let item = childSnapshot.val();
+        const item = childSnapshot.val();
         item._id = childSnapshot.key;
-        item.text = item.text.text;
-        item.user._id = item.user.id;
-        item.user.name = item.user.email;
-        item.user.avatar = 'http://jefflau.net/content/images/2016/07/react-logo-1000-transparent.png';
         returnArr.push(item);
       });
       dispatch(chatLoadMessageSuccess(returnArr));
     }, (errorObject) => {
       dispatch(chatLoadMessageError(errorObject.message));
     });
-};
 
 export const sendMessage = (message) => (dispatch) => {
   dispatch(chatMessageLoading());
-  let currentUser = firebaseService.auth().currentUser;
-  let createdAt = new Date().getTime();
-  let chatMessage = {
+  const currentUser = firebaseService.auth().currentUser;
+  const chatMessage = {
     text: message,
-    createdAt: createdAt,
+    createdAt: new Date().getTime(),
     user: {
-      id: currentUser.uid,
-      email: currentUser.email
-    }
+      _id: currentUser.uid,
+      name: currentUser.email,
+      avatar: currentUser.uid === 'kMINSAgPNcRMSxSZveZH1MUdHYq2' ?
+        'http://jefflau.net/content/images/2016/07/react-logo-1000-transparent.png' :
+        'https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png',
+    },
   };
-  FIREBASE_REF_MESSAGES.push().set(chatMessage, (error) => {
-    if (error) {
-      dispatch(chatMessageError(error.message));
-    } else {
-      dispatch(chatMessageSuccess());
-    }
-  });
+  return FIREBASE_REF_MESSAGES.
+    push().
+    set(chatMessage, (error) => {
+      if (error) {
+        dispatch(chatMessageError(error.message));
+      } else {
+        // chatMessage
+        dispatch(chatMessageSuccess());
+      }
+    });
 };

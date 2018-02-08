@@ -39,7 +39,7 @@ let theme = {
   background: '#FFF',
   buttonBg: '#ED1D25',
   errorColor: '#F00',
-  primary: '#392d2c',
+  primary: '#000000',
   secondary: '#F5F5F5',
   tertiary: '#392d2c',
   brand: '#3F51B5',

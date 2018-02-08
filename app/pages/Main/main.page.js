@@ -1,5 +1,4 @@
 import React from 'react';
-import {StyleSheet} from 'react-native';
 import {GiftedChat} from 'react-native-gifted-chat';
 import PropTypes from 'prop-types';
 import {noop, result} from 'lodash';
@@ -20,49 +19,48 @@ export default class App extends React.Component {
   componentWillMount () {
     const {loadMessages = noop} = this.props;
     loadMessages();
-    // this.setState({
-    //   messages: [
-    //     {
-    //       _id: 1,
-    //       text: 'Hello developer',
-    //       createdAt: new Date(),
-    //       user: {
-    //         _id: 2,
-    //         name: 'React Native',
-    //         avatar: 'http://jefflau.net/content/images/2016/07/react-logo-1000-transparent.png',
-    //       },
-    //     },
-    //   ],
-    // });
+    setTimeout(() => {
+      const {chat} = this.props;
+      this.setState({
+        messages: chat.messages,
+      });
+    }, 3000);
   }
 
   onSend = (messages = []) => {
     const {sendMessage} = this.props;
-    // this.setState((previousState) => ({
-    //   messages: GiftedChat.append(previousState.messages, messages),
-    // }));
-    sendMessage(messages[messages.length - 1]);
+    sendMessage(messages[messages.length - 1].text);
+    this.setState((previousState) => ({
+      messages: GiftedChat.append(previousState.messages, messages),
+    }));
+  }
+
+  longPress = () => {
+    // console.log('masuk long press');
   }
 
   render () {
-    const {session, chat} = this.props;
+    const {session} = this.props;
+    const {messages = []} = this.state;
     const user = result(session, 'user', {});
-    const message = result(chat, 'messages', []);
     return (
       <GiftedChat
-        messages={message}
+        messages={messages}
         onSend={this.onSend}
-        user={{_id: result(user, 'uid', ''), ...user}}
+        user={{_id: result(user, 'uid', '')}}
+        onLongPress={this.longPress}
+        isAnimated={true}
+        forceGetKeyboardHeight={true}
       />
     );
   }
 }
 
-export const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+// export const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+// });

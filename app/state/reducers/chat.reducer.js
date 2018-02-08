@@ -22,7 +22,7 @@ const language = (state = initialState, action) => {
   case CHAT_MESSAGE_ERROR:
     return {...state, sending: true, sendingError: null};
   case CHAT_MESSAGE_SUCCESS:
-    return {...state, sending: true, sendingError: null};
+    return {...state, messages: state.messages, sending: true, sendingError: null};
   case CHAT_MESSAGE_UPDATE:
     return {...state, sending: true, sendingError: null};
   case CHAT_LOAD_MESSAGES_SUCCESS:

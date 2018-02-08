@@ -6,6 +6,9 @@ import {BackHandler} from 'react-native';
 import Routes from './index';
 import {getCurrentRouteName} from '../utils/transformer.util';
 import {result} from 'lodash';
+import {createReduxBoundAddListener} from 'react-navigation-redux-helpers';
+
+const addListener = createReduxBoundAddListener('root');
 
 class RouterWrapper extends React.Component {
 
@@ -37,7 +40,7 @@ class RouterWrapper extends React.Component {
 
   render () {
     const {dispatch, nav} = this.props;
-    return (<Routes navigation={addNavigationHelpers({dispatch, state: nav})} />);
+    return (<Routes navigation={addNavigationHelpers({dispatch, state: nav, addListener})} />);
   }
 }
 

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="answers-1.4.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-firebase/android/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

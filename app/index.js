@@ -29,4 +29,4 @@ const MyApp = () => (
 );
 
 export default MyApp;
-AppRegistry.registerComponent('chat-app', wrapObjectInFunction(MyApp));
+AppRegistry.registerComponent('chatapp', wrapObjectInFunction(MyApp));

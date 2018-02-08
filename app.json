@@ -1,5 +1,10 @@
 {
   "expo": {
     "sdkVersion": "25.0.0"
+  },
+  "name": "chatapp",
+  "displayName": "chat-app",
+  "androidStatusBar": {
+    "backgroundColor": "#000000"
   }
 }

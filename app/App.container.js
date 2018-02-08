@@ -26,7 +26,7 @@ const mapDispatchToProps = (dispatch) => ({
     }),
   resetNetworkBar: () => dispatch(resetNetworkBar()),
   setNetworkStatus: (isConnected) => dispatch(setNetworkStatus(isConnected)),
-  loginUser: () => dispatch(loginUser('atriadplt@gmail.com', 'MaJoTwin0707@')),
+  loginUser: () => dispatch(loginUser('tya.atria@yahoo.com', 'MaJoTwin0707@')), // tya.atria@yahoo.com atriadplt@gmail.com
 });
 
 class AppComponent extends PureComponent {
