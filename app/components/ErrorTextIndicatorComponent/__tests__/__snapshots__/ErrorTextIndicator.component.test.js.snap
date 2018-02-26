@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorTextIndicator component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "marginBottom": 5,
+      "marginTop": 5,
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#ED1D25",
+        "fontSize": 14,
+        "fontWeight": "600",
+      }
+    }
+  />
+</View>
+`;

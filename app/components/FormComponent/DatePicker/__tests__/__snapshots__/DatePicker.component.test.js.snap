@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DatePicker component renders correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#f0f1f1",
+          "marginBottom": 10,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontSize": 19,
+                "fontWeight": "500",
+                "padding": 10,
+              },
+              undefined,
+            ]
+          }
+        >
+          01 Jan 2000
+        </Text>
+      </View>
+      <Modal
+        animationOut="fadeOut"
+        animationType="fade"
+        hardwareAccelerated={false}
+        onRequestClose={[Function]}
+        transparent={true}
+        visible={false}
+      >
+        <View
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <TouchableWithoutFeedback
+            onPress={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "rgba(0, 0, 0, 0.75)",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "padding": 20,
+                  },
+                  Object {
+                    "justifyContent": "flex-end",
+                    "padding": 0,
+                  },
+                ]
+              }
+            >
+              <TouchableWithoutFeedback
+                onPress={[Function]}
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "white",
+                        "padding": 20,
+                      },
+                      Object {
+                        "backgroundColor": "transparent",
+                        "padding": 0,
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "#f0f1f1",
+                        "justifyContent": "center",
+                        "padding": 0,
+                        "width": 750,
+                      }
+                    }
+                  >
+                    <View
+                      style={
+                        Object {
+                          "alignItems": "center",
+                          "flexDirection": "row",
+                          "height": 50,
+                          "justifyContent": "flex-end",
+                          "padding": 20,
+                          "width": 750,
+                        }
+                      }
+                    >
+                      <View
+                        accessibilityComponentType={undefined}
+                        accessibilityLabel={undefined}
+                        accessibilityTraits={undefined}
+                        accessible={true}
+                        collapsable={undefined}
+                        hitSlop={undefined}
+                        isTVSelectable={true}
+                        nativeID={undefined}
+                        onLayout={undefined}
+                        onResponderGrant={[Function]}
+                        onResponderMove={[Function]}
+                        onResponderRelease={[Function]}
+                        onResponderTerminate={[Function]}
+                        onResponderTerminationRequest={[Function]}
+                        onStartShouldSetResponder={[Function]}
+                        style={
+                          Object {
+                            "opacity": 1,
+                          }
+                        }
+                        testID={undefined}
+                        tvParallaxProperties={undefined}
+                      >
+                        <Text
+                          accessible={true}
+                          allowFontScaling={true}
+                          ellipsizeMode="tail"
+                          style={
+                            Object {
+                              "color": "#007AFF",
+                              "fontSize": 19,
+                              "fontWeight": "800",
+                            }
+                          }
+                        >
+                          Selesai
+                        </Text>
+                      </View>
+                    </View>
+                    <View>
+                      <DatePickerIOS
+                        date={2000-01-01T00:00:00.000Z}
+                        mode="date"
+                        onDateChange={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#FFFFFF",
+                            "width": 750,
+                          }
+                        }
+                      />
+                    </View>
+                  </View>
+                </View>
+              </TouchableWithoutFeedback>
+            </View>
+          </TouchableWithoutFeedback>
+        </View>
+      </Modal>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radio Button component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "marginLeft": 20,
+      }
+    }
+  >
+    <View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "paddingTop": 10,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#392d2c",
+                  "borderRadius": 12,
+                  "borderWidth": 2,
+                  "height": 20,
+                  "justifyContent": "center",
+                  "width": 20,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "backgroundColor": "#392d2c",
+                    "borderRadius": 6,
+                    "height": 12,
+                    "width": 12,
+                  }
+                }
+              />
+            </View>
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                onPress={[Function]}
+                style={
+                  Object {
+                    "fontSize": 17,
+                    "paddingLeft": 5,
+                  }
+                }
+              >
+                xxx
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 17,
+                    "paddingLeft": 5,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

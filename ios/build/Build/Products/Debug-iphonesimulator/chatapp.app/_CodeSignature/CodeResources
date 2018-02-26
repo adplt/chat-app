@@ -10,27 +10,27 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		ELAH5ddABlMLbdmTjOzYy9d8xuk=
+		ppdB/ILpg3V8r9SNhwrM7IBaOLk=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
-		IZKI9rF+lpSzTEx0Ws8AJDADu6s=
+		1B2el4VWFDAOkn9VcHNDKzzj+FE=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		YkXFJA8jV7eumj1vmijNxBJT91Y=
+		5itGhMV+ttc0e4wB5eYU16Jkls8=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		ogCTstQ4ZMFIaxmY9KBKeVvJYGQ=
+		YYZ2IREWfMy2Bg9OXFqWBHBQqfc=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
-		XvCWv6zBDEUat/bYRLTF0j/AAts=
+		phYPnlTbR5U7Tduvo0k+Dh03+qs=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bCz6B+GJeVBdyKONvHzljCPr1lo=
+		odpq8Yr7UThepOXCDlXDVVq287s=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -75,27 +75,27 @@
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
-		A/jkXWHzqAKUodL+iuZSJjlvOM8=
+		tEAhYNwRqr2MWd9Ao6Iwb+o4k40=
 		</data>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		yPWVvaO5Z02yhwMxvhZMLMPHIQo=
+		4mv/BTcWZZi/kZ+fJyubnPUm42s=
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		fd6EgDDPD+M9vI31Cie0Xiyl3q8=
+		YDYiV8qSFPNk6Dw1vSMe7FCb/HA=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
-		I3WtdI7HDtBLvH9crXVmBQYgsXM=
+		IXfT0quBAlNgG3A1D5pmWvqYomg=
 		</data>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		6lTvbCj8j0dl/I+0FF/UVg5pJAQ=
+		y+9C0bV6EmkSl7D91m5VaTvFQ8s=
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		H5hZ5fQkfPVQCwycFzdz+1onF8s=
+		Br5k9NbHhbLi8lKriZo4b601sLc=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -103,7 +103,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vD4IYRp31r2eGtGjdDCN4ZX9Eac=
+		2Wgl2dfvhFKLzryyzjKZixUMh1Y=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -119,15 +119,15 @@
 		</data>
 		<key>PlugIns/chatappTests.xctest/Info.plist</key>
 		<data>
-		0V3hQDzP/wA6cCOYyc1IZbRPMQs=
+		RPxbX2jiFMIF4X7GUcbtb17Dfhk=
 		</data>
 		<key>PlugIns/chatappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		JdW5gZ87lZKkP1mM4EOWKNWSJfk=
+		J7n4GAEyUkvqlph0HZ6AVemg/zQ=
 		</data>
 		<key>PlugIns/chatappTests.xctest/chatappTests</key>
 		<data>
-		j7svo3EkaXYqTzw5x4BqW+4s00A=
+		E5yz+hVhnBl6eUF909e91s0CvT4=
 		</data>
 		<key>fontawesome-webfont.woff2</key>
 		<data>
@@ -151,66 +151,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ELAH5ddABlMLbdmTjOzYy9d8xuk=
+			ppdB/ILpg3V8r9SNhwrM7IBaOLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zuY40ZsV6kLQHOPRQyp1DJbAxK60VzqWhHNI+oQk5gI=
+			uRO9VMXdoSbMlSlDy2hcCxq0o84wIiLzz4Hxv49WFQY=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IZKI9rF+lpSzTEx0Ws8AJDADu6s=
+			1B2el4VWFDAOkn9VcHNDKzzj+FE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dhFe5nRKLSnHkv0A4HOfjsmlQG2rctBKcwGQAs22trQ=
+			5DG/aEwiVaVVWCpIWTf3rvE2+Aq4rQAN5fL03Y10rGo=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YkXFJA8jV7eumj1vmijNxBJT91Y=
+			5itGhMV+ttc0e4wB5eYU16Jkls8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wIfz6vZzxLW+a3VsqUzH3n5ysn80ExQz9mrfor354N8=
+			a8Yf+pRXXxEuK16TZxvzL6Dy6FZqcrBiYiiUGTyCkE8=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ogCTstQ4ZMFIaxmY9KBKeVvJYGQ=
+			YYZ2IREWfMy2Bg9OXFqWBHBQqfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			74xEGxgBDgLJBHkkLPdh2IWhGfy1n6uGoW8afLFr1JA=
+			yrRO7BEqpi9MyRQAAqgLl0Ix+98UJk/x/yIOqUOsZAk=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XvCWv6zBDEUat/bYRLTF0j/AAts=
+			phYPnlTbR5U7Tduvo0k+Dh03+qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			eOL+g98EzbXxC3buRG7+odgs59EaM6mo0tS0pUbwTUM=
+			YZrEhUFTPPQOqDinNdsmurgzAF5GpclWGoUiEjaCV/M=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bCz6B+GJeVBdyKONvHzljCPr1lo=
+			odpq8Yr7UThepOXCDlXDVVq287s=
 			</data>
 			<key>hash2</key>
 			<data>
-			D4uMJz0hCQwgoz/ASBLUtB07OWYy/lt0jT450iAvECI=
+			tdeUAp7RxP10MvnCWq2uWJUNmA89kiAeubeQonhPbzA=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -318,66 +318,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A/jkXWHzqAKUodL+iuZSJjlvOM8=
+			tEAhYNwRqr2MWd9Ao6Iwb+o4k40=
 			</data>
 			<key>hash2</key>
 			<data>
-			F1R92JNzHbGs8N2s1NhzjjrY+WSEmEXu97GzTxg0V9M=
+			cwRdPcZWM8EpFB/cmpi7RWZWF7xocT54MAS77FrSGhI=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yPWVvaO5Z02yhwMxvhZMLMPHIQo=
+			4mv/BTcWZZi/kZ+fJyubnPUm42s=
 			</data>
 			<key>hash2</key>
 			<data>
-			mVKd82KZqPRjb4UX3IiltVQ0ToNzk4xf2jKh9Vlrg+w=
+			Lf9vFR+q2J8OM+79efiBMrjOTAFCF2UBHuZZnGwJxaA=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fd6EgDDPD+M9vI31Cie0Xiyl3q8=
+			YDYiV8qSFPNk6Dw1vSMe7FCb/HA=
 			</data>
 			<key>hash2</key>
 			<data>
-			m45pdri12bk2l1MfZF3k9TJqQAvOUtB53l1VbsJnxYs=
+			bjetT6E8/cNfi/Vwp+EnCB5TJGbKBcGDLyEZgcEqecw=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I3WtdI7HDtBLvH9crXVmBQYgsXM=
+			IXfT0quBAlNgG3A1D5pmWvqYomg=
 			</data>
 			<key>hash2</key>
 			<data>
-			yi382xSHshFHa+YRdYiIWHHv1GUUBapezuwR6mYj+ZE=
+			n+rxHJwuXx7/XL6QWI3bynTOpab8LNOQg9bhUFObPUA=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6lTvbCj8j0dl/I+0FF/UVg5pJAQ=
+			y+9C0bV6EmkSl7D91m5VaTvFQ8s=
 			</data>
 			<key>hash2</key>
 			<data>
-			EM0mhbraJSr4gMYQPIgivzdiuBiIFpEDDXvKH+YLZn4=
+			5nFfZf6PG4nrlnuACa24exAkqD7PFAfCCdZxAfa2VG8=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H5hZ5fQkfPVQCwycFzdz+1onF8s=
+			Br5k9NbHhbLi8lKriZo4b601sLc=
 			</data>
 			<key>hash2</key>
 			<data>
-			CB3DoZ0uKZU5Pvpc4j/2GY9AWDW2n4xNREbMmRnbU9M=
+			g72RPnNb05GR5SdjNMp7S+z0YCUlhCAF/e1vWyzTWjA=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -417,33 +417,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0V3hQDzP/wA6cCOYyc1IZbRPMQs=
+			RPxbX2jiFMIF4X7GUcbtb17Dfhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			53bo7T7N++PVcc1B1p8VWWVuJdLxpHOH2ics0oO7k20=
+			MN2DJSIfUzf9OBmzT4RZ9F9MEJUz5lp/W0Sk5ot3qtw=
 			</data>
 		</dict>
 		<key>PlugIns/chatappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JdW5gZ87lZKkP1mM4EOWKNWSJfk=
+			J7n4GAEyUkvqlph0HZ6AVemg/zQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			T4/KmJvAPZPemLwhs8DvPI+PUBipeXIehb1T0d/qkEY=
+			steoBybi02R9keE1HgcjNPgd0hqLJ/PzJX3s72O1we0=
 			</data>
 		</dict>
 		<key>PlugIns/chatappTests.xctest/chatappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j7svo3EkaXYqTzw5x4BqW+4s00A=
+			E5yz+hVhnBl6eUF909e91s0CvT4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NzNfFL0Y8Zg6JPq6yYkLmCLZ4/6z6O+5IN4dt0Sr6oc=
+			jWYIJwREpbXBJpzJYJKeeA5yejdQHkE4SjYLj5Sbrko=
 			</data>
 		</dict>
 		<key>fontawesome-webfont.woff2</key>

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {ActivityIndicator, Platform} from 'react-native';
-import ScrollableOverlayModal from '../ScrollableModalComponent/ScrollableOverlayModal.component';
+import ScrollableOverlayModal from '../OverlayModalComponent/OverlayModal.component';
 
 class OverlaySpinner extends React.Component {
 

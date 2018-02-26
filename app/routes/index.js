@@ -1,12 +1,17 @@
 import React from 'react';
 import {StackNavigator} from 'react-navigation';
-import MainPage from '../containers/Main/main.container';
+import DashboardPage from '../containers/Dashboard/dashboard.container';
+import dashboardPage from './tab.index';
 import * as navHeaders from './navHeader.route';
 
 export default StackNavigator({
-  MainPage: {
-    screen: MainPage,
-    navigationOptions: navHeaders.GoalsNavConfig
+  BoardingPage: {
+    screen: dashboardPage,
+    navigationOptions: navHeaders.headerNavBoarding,
+  },
+  DashboardPage: {
+    screen: DashboardPage,
+    navigationOptions: navHeaders.headerNavDashboard,
   },
 }, {
   navigationOptions: {

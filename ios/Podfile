@@ -10,4 +10,7 @@ target 'chatapp' do
   pod 'Firebase/Database'
   pod 'Firebase/Auth'
 
+  pod 'react-native-fetch-blob', :path => '../node_modules/react-native-fetch-blob'
+  # pod 'RNVectorIcons', :path => 'node_modules/react-native-vector-icons'
+
 end

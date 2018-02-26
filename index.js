@@ -1,3 +1,2 @@
-import {AppRegistry} from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('chatapp', () => App);
+import App from './app/index';
+export default App;

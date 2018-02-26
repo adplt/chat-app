@@ -8,9 +8,9 @@ import {setNetworkStatus, resetNetworkBar} from './state/actions/common.action';
 import {ConnectedRoutes} from './routes/router';
 import OfflineBar from './components/OfflineBarComponent/OfflineBar.component';
 import {setCurrentLanguage} from './state/thunks/common.thunk';
-import {loginUser} from './state/thunks/firebase.thunk';
 import {get, storageKeys} from './utils/storage.util';
 import {noop, result} from 'lodash';
+import {loginUser} from './state/thunks/firebase.thunk';
 
 const mapStateToProps = (state) => ({
   spinner: result(state, 'spinner'),
@@ -26,7 +26,7 @@ const mapDispatchToProps = (dispatch) => ({
     }),
   resetNetworkBar: () => dispatch(resetNetworkBar()),
   setNetworkStatus: (isConnected) => dispatch(setNetworkStatus(isConnected)),
-  loginUser: () => dispatch(loginUser('tya.atria@yahoo.com', 'MaJoTwin0707@')), // tya.atria@yahoo.com atriadplt@gmail.com
+  loginUser: () => dispatch(loginUser('tya.atria@yahoo.com', 'admin123')), // tya.atria@yahoo.com atriadplt@gmail.com
 });
 
 class AppComponent extends PureComponent {
@@ -46,7 +46,7 @@ class AppComponent extends PureComponent {
   componentWillMount () {
     const {initializeLanguage = noop, loginUser = noop} = this.props;
     initializeLanguage();
-    loginUser();
+    // loginUser();
   }
 
   render () {

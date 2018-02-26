@@ -140,6 +140,33 @@
     },
     {
       'type': 'directory',
+      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "React-Swift.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/React-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "React-umbrella.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/React/React-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
       'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers",
       'contents': [
         {
@@ -279,6 +306,68 @@
           'type': 'file',
           'name': "module.modulemap",
           'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IOS7Polyfill.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/IOS7Polyfill.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlob.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlob/RNFetchBlob.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlobConst.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlobFS.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobFS.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlobNetwork.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlobProgress.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNFetchBlobReqBuilder.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobReqBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "react-native-fetch-blob-umbrella.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/react-native-fetch-blob/react-native-fetch-blob-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "react_native_fetch_blob-Swift.h",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers/react_native_fetch_blob-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/react-native-fetch-blob.build/module.modulemap"
         }
       ]
     }

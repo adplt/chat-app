@@ -13,6 +13,8 @@ import {
   chatMessageError,
   chatMessageSuccess,
 } from '../actions/chat.action';
+import {isEmpty} from 'lodash';
+import {NavigationActions} from 'react-navigation';
 
 const FIREBASE_REF_MESSAGES = firebaseService.database().ref('Messages');
 const FIREBASE_REF_MESSAGES_LIMIT = 20;
@@ -35,15 +37,20 @@ export const restoreSession = () => (dispatch) => {
 
 export const loginUser = (email, password) => (dispatch) => {
   dispatch(sessionLoading());
-  firebaseService.auth().signInAndRetrieveDataWithEmailAndPassword(email, password).
-    catch((error) => {
-      dispatch(sessionError(error.message));
-    });
+  firebaseService.auth().
+    signInAndRetrieveDataWithEmailAndPassword(email, password).
+    catch((error) => dispatch(sessionError(error.message)));
   const unsubscribe = firebaseService.auth().
     onAuthStateChanged((user) => {
-      if (user) {
-        dispatch(sessionSuccess(user));
+      if (!isEmpty(user)) {
+        dispatch(sessionSuccess(Object.values(user)[1])); // Object.values(action.payload)[1]
         unsubscribe();
+        dispatch(NavigationActions.reset({
+          index: 0,
+          actions: [
+            NavigationActions.navigate({routeName: 'DashboardPage'})
+          ]
+        }));
       }
     });
 };
@@ -83,6 +90,7 @@ export const loadMessages = () => (dispatch) =>
     orderByChild('createdAt').
     on('value', (snapshot) => {
       let returnArr = [];
+      // if (!isEmpty(snapshot))
       snapshot.forEach((childSnapshot) => {
         const item = childSnapshot.val();
         item._id = childSnapshot.key;
@@ -96,6 +104,8 @@ export const loadMessages = () => (dispatch) =>
 export const sendMessage = (message) => (dispatch) => {
   dispatch(chatMessageLoading());
   const currentUser = firebaseService.auth().currentUser;
+  // const uid = result(currentUser, 'uid', '');
+  // const email = result(currentUser, 'email', '');
   const chatMessage = {
     text: message,
     createdAt: new Date().getTime(),
@@ -113,7 +123,6 @@ export const sendMessage = (message) => (dispatch) => {
       if (error) {
         dispatch(chatMessageError(error.message));
       } else {
-        // chatMessage
         dispatch(chatMessageSuccess());
       }
     });

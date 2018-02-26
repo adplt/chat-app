@@ -41,6 +41,7 @@
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		E80CE3D720287971006E83CC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E80CE3AF20287971006E83CC /* GoogleService-Info.plist */; };
 		E80CE3D820287971006E83CC /* fontawesome-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = E80CE3D620287971006E83CC /* fontawesome-webfont.woff2 */; };
+		E8ACBA36203BFAE500C4C22E /* libRNFetchBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E8ACBA34203BFAD100C4C22E /* libRNFetchBlob.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -324,6 +325,13 @@
 			remoteGlobalIDString = 134814201AA4EA6300B7C361;
 			remoteInfo = RNFirebase;
 		};
+		E8ACBA33203BFAD100C4C22E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E8ACBA0A203BFAD100C4C22E /* RNFetchBlob.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A15C300E1CD25C330074CB35;
+			remoteInfo = RNFetchBlob;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -360,6 +368,7 @@
 		CC7362FFBED64B2AAC93FCF4 /* RNFirebase.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNFirebase.xcodeproj; path = "../node_modules/react-native-firebase/ios/RNFirebase.xcodeproj"; sourceTree = "<group>"; };
 		E80CE3AF20287971006E83CC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "chatapp/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E80CE3D620287971006E83CC /* fontawesome-webfont.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "fontawesome-webfont.woff2"; path = "chatapp/fontawesome-webfont.woff2"; sourceTree = "<group>"; };
+		E8ACBA0A203BFAD100C4C22E /* RNFetchBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RNFetchBlob.xcodeproj; path = "../node_modules/react-native-fetch-blob/ios/RNFetchBlob.xcodeproj"; sourceTree = "<group>"; };
 		E913A70390EA1E9F9C1FD903 /* Pods_chatapp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_chatapp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5DAF91502E72935F81F0E36 /* Pods-chatapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chatapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-chatapp/Pods-chatapp.release.xcconfig"; sourceTree = "<group>"; };
 		FDDE62354ACB49BBB26C2CAC /* libRNFirebase.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNFirebase.a; sourceTree = "<group>"; };
@@ -378,6 +387,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8ACBA36203BFAE500C4C22E /* libRNFetchBlob.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
@@ -581,6 +591,7 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				E8ACBA0A203BFAD100C4C22E /* RNFetchBlob.xcodeproj */,
 				5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */,
 				146833FF1AC3E56700842450 /* React.xcodeproj */,
 				00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */,
@@ -655,6 +666,14 @@
 			isa = PBXGroup;
 			children = (
 				E80CE3A1202874EA006E83CC /* libRNFirebase.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E8ACBA0B203BFAD100C4C22E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E8ACBA34203BFAD100C4C22E /* libRNFetchBlob.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -750,6 +769,9 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 27HFCZLSMV;
+					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
@@ -820,6 +842,10 @@
 				{
 					ProductGroup = 146834001AC3E56700842450 /* Products */;
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
+				},
+				{
+					ProductGroup = E8ACBA0B203BFAD100C4C22E /* Products */;
+					ProjectRef = E8ACBA0A203BFAD100C4C22E /* RNFetchBlob.xcodeproj */;
 				},
 				{
 					ProductGroup = E80CE39D202874EA006E83CC /* Products */;
@@ -1103,6 +1129,13 @@
 			remoteRef = E80CE3A0202874EA006E83CC /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		E8ACBA34203BFAD100C4C22E /* libRNFetchBlob.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNFetchBlob.a;
+			remoteRef = E8ACBA33203BFAD100C4C22E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -1165,15 +1198,19 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-chatapp/Pods-chatapp-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/React/React.framework",
 				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+				"${BUILT_PRODUCTS_DIR}/react-native-fetch-blob/react_native_fetch_blob.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/react_native_fetch_blob.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1352,6 +1389,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = 27HFCZLSMV;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
@@ -1363,6 +1401,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.chatappexample;
 				PRODUCT_NAME = chatapp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1374,6 +1413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 27HFCZLSMV;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
@@ -1385,6 +1425,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.chatappexample;
 				PRODUCT_NAME = chatapp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
