@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D4A0B80C0E6A3D73D4BF563E0421A28B'
+               BlueprintIdentifier = '3250AF60F3C118223876DBB033FD09F0'
                BlueprintName = 'Pods-chatapp'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-chatapp.framework'>

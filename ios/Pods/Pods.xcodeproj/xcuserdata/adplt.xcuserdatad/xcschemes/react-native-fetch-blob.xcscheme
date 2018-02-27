@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '78CD85676DCACBC65966D0843373D1D1'
+               BlueprintIdentifier = '7EF451969D5DB265BD72E22E5576EC6A'
                BlueprintName = 'react-native-fetch-blob'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'react-native-fetch-blob.framework'>

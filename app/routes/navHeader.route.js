@@ -1,7 +1,8 @@
 import React from 'react';
-import {Image} from 'react-native';
+import {View, Image, Text} from 'react-native';
 import {theme} from '../styles/core.style';
 // import translations from '../../../../i18n';
+// import {IconButton} from '../components/FormComponent';
 
 export const navigationOptions = {
   headerBrand: {
@@ -41,18 +42,23 @@ export const tabBarOptions = {
   tabBarPosition: 'bottom'
 };
 
-export const headerNavBoarding = () => ({
+// <IconButton name={'ios-cart'} size={32} />
+
+export const headerNavBoarding = (navigation) => ({
   headerTintColor: theme.contrast,
   headerStyle: {...navigationOptions.headerBrand.headerStyle},
-  title: 'Chat Bot - Botria',
-
+  header: <View style={{height: 60, marginTop: 20, justifyContent: 'center'}}>
+    <Text style={{color: '#FFFFFF', textAlign: 'center'}}>{navigation.navigationOptions.title}</Text>
+    <View style={{alignItems: 'flex-end'}} />
+  </View>
 });
 
-export const headerNavDashboard = () => ({
+export const headerNavDashboard = (navigation) => ({
   headerTintColor: theme.contrast,
   headerStyle: {...navigationOptions.headerBrand.headerStyle},
-  title: 'Chat Bot - Botria',
-
+  header: <View style={{height: 60, marginTop: 20, justifyContent: 'center'}}>
+    <Text style={{color: '#FFFFFF', textAlign: 'center'}}>{navigation.navigationOptions.title}</Text>
+  </View>
 });
 
 export const loginNav = () => ({
