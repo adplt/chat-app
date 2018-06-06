@@ -4,1585 +4,1585 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "GTMSessionFetcher-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
         },
         {
           'type': 'file',
           'name': "GTMSessionFetcher-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
         },
         {
           'type': 'file',
           'name': "GTMSessionFetcher.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
         },
         {
           'type': 'file',
           'name': "GTMSessionFetcherLogging.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
         },
         {
           'type': 'file',
           'name': "GTMSessionFetcherService.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
         },
         {
           'type': 'file',
           'name': "GTMSessionUploadFetcher.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "GTMDebugSelectorValidation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
         },
         {
           'type': 'file',
           'name': "GTMDebugThreadValidation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
         },
         {
           'type': 'file',
           'name': "GTMDefines.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/GTMDefines.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/GTMDefines.h"
         },
         {
           'type': 'file',
           'name': "GTMMethodCheck.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
         },
         {
           'type': 'file',
           'name': "GTMNSData+zlib.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
         },
         {
           'type': 'file',
           'name': "GTMNSDictionary+URLArguments.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
         },
         {
           'type': 'file',
           'name': "GTMNSString+URLArguments.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
         },
         {
           'type': 'file',
           'name': "GoogleToolboxForMac-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
         },
         {
           'type': 'file',
           'name': "GoogleToolboxForMac-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Pods-chatapp-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/Pods-chatapp/Pods-chatapp-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/Pods-chatapp/Pods-chatapp-umbrella.h"
         },
         {
           'type': 'file',
           'name': "Pods_chatapp-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Headers/Pods_chatapp-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Headers/Pods_chatapp-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/Pods_chatapp.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-chatapp.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-chatapp.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "RNVectorIcons-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Headers/RNVectorIcons-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Headers/RNVectorIcons-Swift.h"
         },
         {
           'type': 'file',
           'name': "RNVectorIcons-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/RNVectorIcons/RNVectorIcons-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/RNVectorIcons/RNVectorIcons-umbrella.h"
         },
         {
           'type': 'file',
           'name': "RNVectorIconsManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons/RNVectorIcons.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNVectorIcons.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RNVectorIcons.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "RCTAccessibilityManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTAccessibilityManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTAccessibilityManager.h"
         },
         {
           'type': 'file',
           'name': "RCTActionSheetManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h"
         },
         {
           'type': 'file',
           'name': "RCTActivityIndicatorView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.h"
         },
         {
           'type': 'file',
           'name': "RCTActivityIndicatorViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTAdditionAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTAlertManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTAlertManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTAlertManager.h"
         },
         {
           'type': 'file',
           'name': "RCTAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTAnimationDriver.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h"
         },
         {
           'type': 'file',
           'name': "RCTAnimationType.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTAnimationType.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTAnimationType.h"
         },
         {
           'type': 'file',
           'name': "RCTAnimationUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTAppState.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTAppState.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTAppState.h"
         },
         {
           'type': 'file',
           'name': "RCTAssert.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTAssert.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTAssert.h"
         },
         {
           'type': 'file',
           'name': "RCTAsyncLocalStorage.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTAsyncLocalStorage.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTAsyncLocalStorage.h"
         },
         {
           'type': 'file',
           'name': "RCTAutoInsetsProtocol.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h"
         },
         {
           'type': 'file',
           'name': "RCTBackedTextInputDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTBackedTextInputDelegateAdapter.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.h"
         },
         {
           'type': 'file',
           'name': "RCTBackedTextInputViewProtocol.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h"
         },
         {
           'type': 'file',
           'name': "RCTBlobManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Blob/RCTBlobManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Blob/RCTBlobManager.h"
         },
         {
           'type': 'file',
           'name': "RCTBorderDrawing.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTBorderDrawing.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTBorderDrawing.h"
         },
         {
           'type': 'file',
           'name': "RCTBorderStyle.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTBorderStyle.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTBorderStyle.h"
         },
         {
           'type': 'file',
           'name': "RCTBridge+Private.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBridge+Private.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBridge+Private.h"
         },
         {
           'type': 'file',
           'name': "RCTBridge.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBridge.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBridge.h"
         },
         {
           'type': 'file',
           'name': "RCTBridgeDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTBridgeMethod.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBridgeMethod.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBridgeMethod.h"
         },
         {
           'type': 'file',
           'name': "RCTBridgeModule.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBridgeModule.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBridgeModule.h"
         },
         {
           'type': 'file',
           'name': "RCTBundleURLProvider.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTBundleURLProvider.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTBundleURLProvider.h"
         },
         {
           'type': 'file',
           'name': "RCTClipboard.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTClipboard.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTClipboard.h"
         },
         {
           'type': 'file',
           'name': "RCTComponent.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTComponent.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTComponent.h"
         },
         {
           'type': 'file',
           'name': "RCTComponentData.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTComponentData.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTComponentData.h"
         },
         {
           'type': 'file',
           'name': "RCTConvert+CoreLocation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h"
         },
         {
           'type': 'file',
           'name': "RCTConvert+Text.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTConvert+Text.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTConvert+Text.h"
         },
         {
           'type': 'file',
           'name': "RCTConvert+Transform.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTConvert+Transform.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTConvert+Transform.h"
         },
         {
           'type': 'file',
           'name': "RCTConvert.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTConvert.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTConvert.h"
         },
         {
           'type': 'file',
           'name': "RCTCxxConvert.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.h"
         },
         {
           'type': 'file',
           'name': "RCTDataRequestHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTDatePicker.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTDatePicker.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTDatePicker.h"
         },
         {
           'type': 'file',
           'name': "RCTDatePickerManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTDatePickerManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTDatePickerManager.h"
         },
         {
           'type': 'file',
           'name': "RCTDecayAnimation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h"
         },
         {
           'type': 'file',
           'name': "RCTDefines.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTDefines.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTDefines.h"
         },
         {
           'type': 'file',
           'name': "RCTDevLoadingView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/DevSupport/RCTDevLoadingView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/DevSupport/RCTDevLoadingView.h"
         },
         {
           'type': 'file',
           'name': "RCTDevMenu.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/DevSupport/RCTDevMenu.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/DevSupport/RCTDevMenu.h"
         },
         {
           'type': 'file',
           'name': "RCTDevSettings.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTDevSettings.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTDevSettings.h"
         },
         {
           'type': 'file',
           'name': "RCTDeviceInfo.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTDeviceInfo.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTDeviceInfo.h"
         },
         {
           'type': 'file',
           'name': "RCTDiffClampAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTDisplayLink.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTDisplayLink.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTDisplayLink.h"
         },
         {
           'type': 'file',
           'name': "RCTDivisionAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTErrorCustomizer.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTErrorCustomizer.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTErrorCustomizer.h"
         },
         {
           'type': 'file',
           'name': "RCTErrorInfo.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTErrorInfo.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTErrorInfo.h"
         },
         {
           'type': 'file',
           'name': "RCTEventAnimation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h"
         },
         {
           'type': 'file',
           'name': "RCTEventDispatcher.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTEventDispatcher.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTEventDispatcher.h"
         },
         {
           'type': 'file',
           'name': "RCTEventEmitter.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTEventEmitter.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTEventEmitter.h"
         },
         {
           'type': 'file',
           'name': "RCTExceptionsManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTExceptionsManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTExceptionsManager.h"
         },
         {
           'type': 'file',
           'name': "RCTFPSGraph.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Profiler/RCTFPSGraph.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Profiler/RCTFPSGraph.h"
         },
         {
           'type': 'file',
           'name': "RCTFileRequestHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTFont.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTFont.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTFont.h"
         },
         {
           'type': 'file',
           'name': "RCTFontAttributes.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTFontAttributes.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTFontAttributes.h"
         },
         {
           'type': 'file',
           'name': "RCTFontAttributesDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTFrameAnimation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h"
         },
         {
           'type': 'file',
           'name': "RCTFrameUpdate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTFrameUpdate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTFrameUpdate.h"
         },
         {
           'type': 'file',
           'name': "RCTGIFImageDecoder.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTGIFImageDecoder.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTGIFImageDecoder.h"
         },
         {
           'type': 'file',
           'name': "RCTHTTPRequestHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTI18nManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTI18nManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTI18nManager.h"
         },
         {
           'type': 'file',
           'name': "RCTI18nUtil.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.h"
         },
         {
           'type': 'file',
           'name': "RCTImageBlurUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTImageCache.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageCache.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageCache.h"
         },
         {
           'type': 'file',
           'name': "RCTImageEditingManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageEditingManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageEditingManager.h"
         },
         {
           'type': 'file',
           'name': "RCTImageLoader.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageLoader.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageLoader.h"
         },
         {
           'type': 'file',
           'name': "RCTImageShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTImageSource.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTImageSource.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTImageSource.h"
         },
         {
           'type': 'file',
           'name': "RCTImageStoreManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h"
         },
         {
           'type': 'file',
           'name': "RCTImageUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTImageView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageView.h"
         },
         {
           'type': 'file',
           'name': "RCTImageViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTImageViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTImageViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTInspector.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Inspector/RCTInspector.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Inspector/RCTInspector.h"
         },
         {
           'type': 'file',
           'name': "RCTInspectorDevServerHelper.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h"
         },
         {
           'type': 'file',
           'name': "RCTInspectorPackagerConnection.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h"
         },
         {
           'type': 'file',
           'name': "RCTInterpolationAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTInvalidating.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTInvalidating.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTInvalidating.h"
         },
         {
           'type': 'file',
           'name': "RCTJSCErrorHandling.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTJSCErrorHandling.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTJSCErrorHandling.h"
         },
         {
           'type': 'file',
           'name': "RCTJSCExecutor.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Executors/RCTJSCExecutor.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Executors/RCTJSCExecutor.h"
         },
         {
           'type': 'file',
           'name': "RCTJSCSamplingProfiler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h"
         },
         {
           'type': 'file',
           'name': "RCTJSStackFrame.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTJSStackFrame.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTJSStackFrame.h"
         },
         {
           'type': 'file',
           'name': "RCTJavaScriptExecutor.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h"
         },
         {
           'type': 'file',
           'name': "RCTJavaScriptLoader.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h"
         },
         {
           'type': 'file',
           'name': "RCTKeyCommands.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTKeyCommands.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTKeyCommands.h"
         },
         {
           'type': 'file',
           'name': "RCTKeyboardObserver.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTKeyboardObserver.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTKeyboardObserver.h"
         },
         {
           'type': 'file',
           'name': "RCTLayoutAnimation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTLayoutAnimation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTLayoutAnimation.h"
         },
         {
           'type': 'file',
           'name': "RCTLayoutAnimationGroup.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h"
         },
         {
           'type': 'file',
           'name': "RCTLinkingManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h"
         },
         {
           'type': 'file',
           'name': "RCTLocalAssetImageLoader.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTLocalAssetImageLoader.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTLocalAssetImageLoader.h"
         },
         {
           'type': 'file',
           'name': "RCTLocationObserver.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h"
         },
         {
           'type': 'file',
           'name': "RCTLog.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTLog.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTLog.h"
         },
         {
           'type': 'file',
           'name': "RCTMacros.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Profiler/RCTMacros.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Profiler/RCTMacros.h"
         },
         {
           'type': 'file',
           'name': "RCTManagedPointer.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTManagedPointer.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTManagedPointer.h"
         },
         {
           'type': 'file',
           'name': "RCTMaskedView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTMaskedView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTMaskedView.h"
         },
         {
           'type': 'file',
           'name': "RCTMaskedViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTMaskedViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTMaskedViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTModalHostView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTModalHostView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTModalHostView.h"
         },
         {
           'type': 'file',
           'name': "RCTModalHostViewController.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTModalHostViewController.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTModalHostViewController.h"
         },
         {
           'type': 'file',
           'name': "RCTModalHostViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTModalHostViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTModalHostViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTModalManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTModalManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTModalManager.h"
         },
         {
           'type': 'file',
           'name': "RCTModuleData.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTModuleData.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTModuleData.h"
         },
         {
           'type': 'file',
           'name': "RCTModuleMethod.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTModuleMethod.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTModuleMethod.h"
         },
         {
           'type': 'file',
           'name': "RCTModuloAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTMultipartDataTask.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTMultipartDataTask.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTMultipartDataTask.h"
         },
         {
           'type': 'file',
           'name': "RCTMultipartStreamReader.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h"
         },
         {
           'type': 'file',
           'name': "RCTMultiplicationAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTNativeAnimatedModule.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h"
         },
         {
           'type': 'file',
           'name': "RCTNativeAnimatedNodesManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h"
         },
         {
           'type': 'file',
           'name': "RCTNavItem.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTNavItem.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTNavItem.h"
         },
         {
           'type': 'file',
           'name': "RCTNavItemManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTNavItemManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTNavItemManager.h"
         },
         {
           'type': 'file',
           'name': "RCTNavigator.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTNavigator.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTNavigator.h"
         },
         {
           'type': 'file',
           'name': "RCTNavigatorManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTNavigatorManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTNavigatorManager.h"
         },
         {
           'type': 'file',
           'name': "RCTNetInfo.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTNetInfo.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTNetInfo.h"
         },
         {
           'type': 'file',
           'name': "RCTNetworkTask.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTNetworkTask.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTNetworkTask.h"
         },
         {
           'type': 'file',
           'name': "RCTNetworking.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Network/RCTNetworking.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Network/RCTNetworking.h"
         },
         {
           'type': 'file',
           'name': "RCTNullability.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTNullability.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTNullability.h"
         },
         {
           'type': 'file',
           'name': "RCTPackagerClient.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h"
         },
         {
           'type': 'file',
           'name': "RCTPackagerConnection.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h"
         },
         {
           'type': 'file',
           'name': "RCTParserUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTParserUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTParserUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTPerformanceLogger.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTPerformanceLogger.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTPerformanceLogger.h"
         },
         {
           'type': 'file',
           'name': "RCTPicker.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTPicker.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTPicker.h"
         },
         {
           'type': 'file',
           'name': "RCTPickerManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTPickerManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTPickerManager.h"
         },
         {
           'type': 'file',
           'name': "RCTPlatform.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTPlatform.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTPlatform.h"
         },
         {
           'type': 'file',
           'name': "RCTPointerEvents.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTPointerEvents.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTPointerEvents.h"
         },
         {
           'type': 'file',
           'name': "RCTProfile.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Profiler/RCTProfile.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Profiler/RCTProfile.h"
         },
         {
           'type': 'file',
           'name': "RCTProgressViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTProgressViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTProgressViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTPropsAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTRawTextManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTRawTextManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTRawTextManager.h"
         },
         {
           'type': 'file',
           'name': "RCTReconnectingWebSocket.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h"
         },
         {
           'type': 'file',
           'name': "RCTRedBox.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTRedBox.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTRedBox.h"
         },
         {
           'type': 'file',
           'name': "RCTRefreshControl.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTRefreshControl.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTRefreshControl.h"
         },
         {
           'type': 'file',
           'name': "RCTRefreshControlManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTRefreshControlManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTRefreshControlManager.h"
         },
         {
           'type': 'file',
           'name': "RCTReloadCommand.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTReloadCommand.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTReloadCommand.h"
         },
         {
           'type': 'file',
           'name': "RCTResizeMode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Image/RCTResizeMode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Image/RCTResizeMode.h"
         },
         {
           'type': 'file',
           'name': "RCTRootContentView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTRootContentView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTRootContentView.h"
         },
         {
           'type': 'file',
           'name': "RCTRootShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTRootShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTRootShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTRootView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTRootView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTRootView.h"
         },
         {
           'type': 'file',
           'name': "RCTRootViewDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTRootViewDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTRootViewDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTRootViewInternal.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTRootViewInternal.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTRootViewInternal.h"
         },
         {
           'type': 'file',
           'name': "RCTSRWebSocket.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h"
         },
         {
           'type': 'file',
           'name': "RCTSafeAreaShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTSafeAreaView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaView.h"
         },
         {
           'type': 'file',
           'name': "RCTSafeAreaViewLocalData.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h"
         },
         {
           'type': 'file',
           'name': "RCTSafeAreaViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollContentShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollContentView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollContentViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollContentViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTScrollableProtocol.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h"
         },
         {
           'type': 'file',
           'name': "RCTSegmentedControl.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSegmentedControl.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSegmentedControl.h"
         },
         {
           'type': 'file',
           'name': "RCTSegmentedControlManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSegmentedControlManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSegmentedControlManager.h"
         },
         {
           'type': 'file',
           'name': "RCTSettingsManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowRawText.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTShadowRawText.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTShadowRawText.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowText.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTShadowText.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTShadowText.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowTextField.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTShadowTextField.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTShadowTextField.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowTextView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTShadowTextView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTShadowTextView.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowView+Internal.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTShadowView+Internal.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTShadowView+Internal.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowView+Layout.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTShadowView+Layout.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTShadowView+Layout.h"
         },
         {
           'type': 'file',
           'name': "RCTShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTSlider.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSlider.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSlider.h"
         },
         {
           'type': 'file',
           'name': "RCTSliderManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSliderManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSliderManager.h"
         },
         {
           'type': 'file',
           'name': "RCTSourceCode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTSourceCode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTSourceCode.h"
         },
         {
           'type': 'file',
           'name': "RCTSpringAnimation.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h"
         },
         {
           'type': 'file',
           'name': "RCTStatusBarManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTStatusBarManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTStatusBarManager.h"
         },
         {
           'type': 'file',
           'name': "RCTStyleAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTSurface.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurface.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurface.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceHostingView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceRootShadowView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceRootShadowViewDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceRootView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceSizeMeasureMode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceStage.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceView+Internal.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h"
         },
         {
           'type': 'file',
           'name': "RCTSurfaceView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h"
         },
         {
           'type': 'file',
           'name': "RCTSwitch.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSwitch.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSwitch.h"
         },
         {
           'type': 'file',
           'name': "RCTSwitchManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTSwitchManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTSwitchManager.h"
         },
         {
           'type': 'file',
           'name': "RCTTVNavigationEventEmitter.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTTVNavigationEventEmitter.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTTVNavigationEventEmitter.h"
         },
         {
           'type': 'file',
           'name': "RCTTVRemoteHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTTVRemoteHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTTVRemoteHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTTVView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTVView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTVView.h"
         },
         {
           'type': 'file',
           'name': "RCTTabBar.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTabBar.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTabBar.h"
         },
         {
           'type': 'file',
           'name': "RCTTabBarItem.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTabBarItem.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTabBarItem.h"
         },
         {
           'type': 'file',
           'name': "RCTTabBarItemManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTabBarItemManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTabBarItemManager.h"
         },
         {
           'type': 'file',
           'name': "RCTTabBarManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTabBarManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTabBarManager.h"
         },
         {
           'type': 'file',
           'name': "RCTText.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTText.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTText.h"
         },
         {
           'type': 'file',
           'name': "RCTTextDecorationLineType.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h"
         },
         {
           'type': 'file',
           'name': "RCTTextField.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextField.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextField.h"
         },
         {
           'type': 'file',
           'name': "RCTTextFieldManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h"
         },
         {
           'type': 'file',
           'name': "RCTTextInput.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextInput.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextInput.h"
         },
         {
           'type': 'file',
           'name': "RCTTextManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextManager.h"
         },
         {
           'type': 'file',
           'name': "RCTTextSelection.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextSelection.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextSelection.h"
         },
         {
           'type': 'file',
           'name': "RCTTextView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextView.h"
         },
         {
           'type': 'file',
           'name': "RCTTextViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTTextViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTTextViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTTiming.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTTiming.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTTiming.h"
         },
         {
           'type': 'file',
           'name': "RCTTouchEvent.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTTouchEvent.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTTouchEvent.h"
         },
         {
           'type': 'file',
           'name': "RCTTouchHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTTouchHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTTouchHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTTransformAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTUIManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTUIManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTUIManager.h"
         },
         {
           'type': 'file',
           'name': "RCTUIManagerObserverCoordinator.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h"
         },
         {
           'type': 'file',
           'name': "RCTUIManagerUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTUITextField.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTUITextField.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTUITextField.h"
         },
         {
           'type': 'file',
           'name': "RCTUITextView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Text/RCTUITextView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Text/RCTUITextView.h"
         },
         {
           'type': 'file',
           'name': "RCTURLRequestDelegate.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTURLRequestDelegate.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTURLRequestDelegate.h"
         },
         {
           'type': 'file',
           'name': "RCTURLRequestHandler.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTURLRequestHandler.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTURLRequestHandler.h"
         },
         {
           'type': 'file',
           'name': "RCTUtils.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTUtils.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTUtils.h"
         },
         {
           'type': 'file',
           'name': "RCTValueAnimatedNode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h"
         },
         {
           'type': 'file',
           'name': "RCTVersion.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTVersion.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTVersion.h"
         },
         {
           'type': 'file',
           'name': "RCTVibration.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/Vibration/RCTVibration.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/Vibration/RCTVibration.h"
         },
         {
           'type': 'file',
           'name': "RCTView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTView.h"
         },
         {
           'type': 'file',
           'name': "RCTViewControllerProtocol.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTViewControllerProtocol.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTViewControllerProtocol.h"
         },
         {
           'type': 'file',
           'name': "RCTViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTWebSocketExecutor.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h"
         },
         {
           'type': 'file',
           'name': "RCTWebSocketModule.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h"
         },
         {
           'type': 'file',
           'name': "RCTWebView.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTWebView.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTWebView.h"
         },
         {
           'type': 'file',
           'name': "RCTWebViewManager.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTWebViewManager.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTWebViewManager.h"
         },
         {
           'type': 'file',
           'name': "RCTWrapperViewController.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTWrapperViewController.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTWrapperViewController.h"
         },
         {
           'type': 'file',
           'name': "React-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/React-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Headers/React-Swift.h"
         },
         {
           'type': 'file',
           'name': "React-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/React/React-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/React/React-umbrella.h"
         },
         {
           'type': 'file',
           'name': "UIView+Private.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/UIView+Private.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/UIView+Private.h"
         },
         {
           'type': 'file',
           'name': "UIView+React.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/UIView+React.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/UIView+React.h"
         },
         {
           'type': 'file',
           'name': "fishhook.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/Libraries/fishhook/fishhook.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/Libraries/fishhook/fishhook.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/PrivateHeaders",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/React/React.framework/PrivateHeaders",
       'contents': [
         {
           'type': 'file',
           'name': "InspectorInterfaces.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h"
         },
         {
           'type': 'file',
           'name': "JSBundleType.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.h"
         },
         {
           'type': 'file',
           'name': "JSCWrapper.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h"
         },
         {
           'type': 'file',
           'name': "JavaScriptCore.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/jschelpers/JavaScriptCore.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/jschelpers/JavaScriptCore.h"
         },
         {
           'type': 'file',
           'name': "oss-compat-util.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/cxxreact/oss-compat-util.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/cxxreact/oss-compat-util.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "c.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/c.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/c.h"
         },
         {
           'type': 'file',
           'name': "cache.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/cache.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/cache.h"
         },
         {
           'type': 'file',
           'name': "comparator.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/comparator.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/comparator.h"
         },
         {
           'type': 'file',
           'name': "db.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/db.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/db.h"
         },
         {
           'type': 'file',
           'name': "dumpfile.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/dumpfile.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/dumpfile.h"
         },
         {
           'type': 'file',
           'name': "env.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/env.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/env.h"
         },
         {
           'type': 'file',
           'name': "filter_policy.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/filter_policy.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/filter_policy.h"
         },
         {
           'type': 'file',
           'name': "iterator.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/iterator.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/iterator.h"
         },
         {
           'type': 'file',
           'name': "leveldb-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/leveldb-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/leveldb-Swift.h"
         },
         {
           'type': 'file',
           'name': "leveldb-library-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/leveldb-library/leveldb-library-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/leveldb-library/leveldb-library-umbrella.h"
         },
         {
           'type': 'file',
           'name': "options.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/options.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/options.h"
         },
         {
           'type': 'file',
           'name': "slice.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/slice.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/slice.h"
         },
         {
           'type': 'file',
           'name': "status.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/status.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/status.h"
         },
         {
           'type': 'file',
           'name': "table.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/table.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/table.h"
         },
         {
           'type': 'file',
           'name': "table_builder.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/table_builder.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/table_builder.h"
         },
         {
           'type': 'file',
           'name': "write_batch.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/leveldb-library/include/leveldb/write_batch.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/leveldb-library/include/leveldb/write_batch.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/leveldb-library.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/leveldb-library.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "nanopb-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
         },
         {
           'type': 'file',
           'name': "nanopb-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
         },
         {
           'type': 'file',
           'name': "pb.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/nanopb/pb.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/nanopb/pb.h"
         },
         {
           'type': 'file',
           'name': "pb_common.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/nanopb/pb_common.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/nanopb/pb_common.h"
         },
         {
           'type': 'file',
           'name': "pb_decode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/nanopb/pb_decode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/nanopb/pb_decode.h"
         },
         {
           'type': 'file',
           'name': "pb_encode.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/nanopb/pb_encode.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/nanopb/pb_encode.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "IOS7Polyfill.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/IOS7Polyfill.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/IOS7Polyfill.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlob.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlob/RNFetchBlob.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlob/RNFetchBlob.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlobConst.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobConst.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobConst.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlobFS.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobFS.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobFS.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlobNetwork.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlobProgress.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h"
         },
         {
           'type': 'file',
           'name': "RNFetchBlobReqBuilder.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobReqBuilder.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobReqBuilder.h"
         },
         {
           'type': 'file',
           'name': "react-native-fetch-blob-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/react-native-fetch-blob/react-native-fetch-blob-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/react-native-fetch-blob/react-native-fetch-blob-umbrella.h"
         },
         {
           'type': 'file',
           'name': "react_native_fetch_blob-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers/react_native_fetch_blob-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Headers/react_native_fetch_blob-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/react-native-fetch-blob/react_native_fetch_blob.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/react-native-fetch-blob.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/react-native-fetch-blob.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "YGEnums.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h"
         },
         {
           'type': 'file',
           'name': "YGMacros.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h"
         },
         {
           'type': 'file',
           'name': "YGNodePrint.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h"
         },
         {
           'type': 'file',
           'name': "Yoga-internal.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h"
         },
         {
           'type': 'file',
           'name': "Yoga.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h"
         },
         {
           'type': 'file',
           'name': "yoga-Swift.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/yoga-Swift.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Headers/yoga-Swift.h"
         },
         {
           'type': 'file',
           'name': "yoga-umbrella.h",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/Pods/Target Support Files/yoga/yoga-umbrella.h"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/Pods/Target Support Files/yoga/yoga-umbrella.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Modules",
+      'name': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/yoga/yoga.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/adplt/Documents/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/yoga.build/module.modulemap"
+          'external-contents': "/Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/yoga.build/module.modulemap"
         }
       ]
     }

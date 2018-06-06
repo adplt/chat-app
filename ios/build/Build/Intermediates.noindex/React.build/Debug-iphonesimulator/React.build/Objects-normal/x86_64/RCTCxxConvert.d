@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.m \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.h
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.m \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Base/RCTCxxConvert.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.m \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.m \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Modules/RCTI18nUtil.h

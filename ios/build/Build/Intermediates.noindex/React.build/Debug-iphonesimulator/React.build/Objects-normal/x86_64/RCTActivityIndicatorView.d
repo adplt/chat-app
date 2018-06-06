@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/adplt/Documents/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

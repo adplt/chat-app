@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.m \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlob/RNFetchBlob.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/adplt/Documents/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobFS.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobConst.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobReqBuilder.h \
-  /Users/adplt/Documents/chat-app/node_modules/react-native-fetch-blob/ios/IOS7Polyfill.h
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.m \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlob/RNFetchBlob.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/atria.tya/Documents/Project/chat-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobFS.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobNetwork.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobProgress.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobConst.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/RNFetchBlobReqBuilder.h \
+  /Users/atria.tya/Documents/Project/chat-app/node_modules/react-native-fetch-blob/ios/IOS7Polyfill.h
